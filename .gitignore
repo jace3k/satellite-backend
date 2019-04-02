@@ -1,0 +1,4 @@
+.env
+.idea
+testing.py
+db.sqlite3
